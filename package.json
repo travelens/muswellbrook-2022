@@ -1,7 +1,7 @@
 {
-  "name": "trip-template",
+  "name": "muswellbrook-2022",
   "author": "Chris Tham (chris@christham.net)",
-  "description": "Trip template for travelens",
+  "description": "Family holiday to the Upper Hunter Valley between Christmas and New Year (27-30 December 2022).",
   "license": "MIT",
   "version": "0.0.1",
   "scripts": {
