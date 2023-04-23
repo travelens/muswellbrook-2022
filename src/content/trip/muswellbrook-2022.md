@@ -15,6 +15,6 @@ We decided to have a family holiday in between Christmas and New Year in the Upp
 | Day | Date | Itinerary |
 | ---: | :---- | :--------- |
 | 0 | Mon 27 December | Lunch at The Kingfish Honeysuckle |
-| 1 | Tue 28 December | Burning Mountain Walk, Scone |
+| 1 | Tue 28 December | Burning Mountain Walk, Scone, Hunter Belle |
 | 2 | Wed 29 December | Muswellbrook Historic walk |
 | 3 | Thu 30 December | Wineries, lunch and journey home |
