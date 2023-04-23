@@ -4,7 +4,7 @@ date: 2022-12-28T18:00:00+11:00
 description: Afternoon swim plus dinner.
 trip: Muswellbrook 2022
 place: Australia
-timezone: Australia/Tasmania
+timezone: Australia/NSW
 location: Muswellbrook
 image: ../../assets/gallery/1-muswellbrook/Muswellbrook (16).jpeg
 gallery: 1-muswellbrook

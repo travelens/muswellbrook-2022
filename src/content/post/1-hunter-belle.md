@@ -4,7 +4,7 @@ date: 2022-12-28T15:00:00+11:00
 description: Stopping by to buy some cheese before heading back to Muswellbrook.
 trip: Muswellbrook 2022
 place: Australia
-timezone: Australia/Tasmania
+timezone: Australia/NSW
 location: Hunter Belle
 image: ../../assets/gallery/1-hunter-belle/Hunter Belle (8).jpeg
 gallery: 1-hunter-belle

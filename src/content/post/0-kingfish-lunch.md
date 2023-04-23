@@ -4,7 +4,7 @@ date: 2022-12-27T12:00:00+11:00
 description: Huge seafood platter in Newcastle to start off our trip.
 trip: Muswellbrook 2022
 place: Australia
-timezone: Australia/Tasmania
+timezone: Australia/NSW
 location: The Kingfish
 image: ../../assets/gallery/0-kingfish-lunch/Kingfish.jpeg
 gallery: 0-kingfish-lunch

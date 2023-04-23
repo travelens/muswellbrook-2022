@@ -4,7 +4,7 @@ date: 2022-12-27T17:00:00+11:00
 description: We arrived in the late afternoon, just in time to unpack, relax and enjoy the sunset.
 trip: Muswellbrook 2022
 place: Australia
-timezone: Australia/Tasmania
+timezone: Australia/NSW
 location: Muswellbrook
 image: ../../assets/gallery/0-muswellbrook/Muswellbrook (4).jpeg
 gallery: 0-muswellbrook

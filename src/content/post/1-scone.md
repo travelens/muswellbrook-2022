@@ -4,7 +4,7 @@ date: 2022-12-28T13:00:00+11:00
 description: Lunch at Scone after our walk to Burning Mountain.
 trip: Muswellbrook 2022
 place: Australia
-timezone: Australia/Tasmania
+timezone: Australia/NSW
 location: Scone
 image: ../../assets/gallery/1-scone/Scone (5).jpeg
 gallery: 1-scone

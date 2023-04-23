@@ -4,7 +4,7 @@ date: 2022-12-28T12:00:00+11:00
 description: Burning Mountain has a naturally burning coal seam that has been smouldering for over 5500 years.
 trip: Muswellbrook 2022
 place: Australia
-timezone: Australia/Tasmania
+timezone: Australia/NSW
 location: Burning Mountain
 image: ../../assets/gallery/1-burning-mountain/Burning Mountain (39).jpeg
 gallery: 1-burning-mountain
