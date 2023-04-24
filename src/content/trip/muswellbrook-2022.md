@@ -8,7 +8,11 @@ end: 2022-12-30T17:00:00+11:00
 description: Family holiday to the Upper Hunter Valley between Christmas and New Year (27-30 December 2022).
 image: ../../assets/trip.jpeg
 tags:
-  - Oceania
+  - Newcastle
+  - Muswellbrook
+  - Burning Mountain
+  - Denman
+  - Pokolbin
 ---
 We decided to have a family holiday in between Christmas and New Year in the Upper Hunter Valley. We booked a house in Muswellbrook, and had a relaxing few days
 
