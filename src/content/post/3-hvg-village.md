@@ -8,8 +8,9 @@ timezone: Australia/NSW
 location: Hunter Valley Gardens village
 image: ../../assets/gallery/3-hvg-village/Hunter Valley Gardens Village (10).jpeg
 gallery: 3-hvg-village
-map: [-32.77316,151.29779,18]
+map: [-32.77316, 151.29779, 18]
 tags:
   - Hunter Valley Gardens village
 ---
+
 [Hunter Valley Gardens Shopping Village](https://www.huntervalleygardens.com.au/attractions/shopping-village/) is a unique collection of bespoke shops offering everything from delicious meals, lunchtime treats, coffee and wine to stunning glassware, jewellery and unique clothing.

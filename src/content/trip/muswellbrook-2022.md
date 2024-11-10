@@ -14,11 +14,12 @@ tags:
   - Denman
   - Pokolbin
 ---
+
 We decided to have a family holiday in between Christmas and New Year in the Upper Hunter Valley. We booked a house in Muswellbrook, and had a relaxing few days
 
-| Day | Date | Itinerary |
-| ---: | :---- | :--------- |
-| 0 | Tue 27 December | Lunch at The Kingfish Honeysuckle |
-| 1 | Wed 28 December | Burning Mountain Walk, Scone, Hunter Belle |
-| 2 | Thu 29 December | Muswellbrook Historic walk |
-| 3 | Fri 30 December | Wineries, lunch and journey home |
+| Day | Date            | Itinerary                                  |
+| --: | :-------------- | :----------------------------------------- |
+|   0 | Tue 27 December | Lunch at The Kingfish Honeysuckle          |
+|   1 | Wed 28 December | Burning Mountain Walk, Scone, Hunter Belle |
+|   2 | Thu 29 December | Muswellbrook Historic walk                 |
+|   3 | Fri 30 December | Wineries, lunch and journey home           |

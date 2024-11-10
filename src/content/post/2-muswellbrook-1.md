@@ -8,7 +8,7 @@ timezone: Australia/NSW
 location: Muswellbrook
 image: ../../assets/gallery/2-muswellbrook-1/Muswellbrook (69).jpeg
 gallery: 2-muswellbrook-1
-map: [-32.2627,150.8961,14]
+map: [-32.2627, 150.8961, 14]
 tags:
   - Muswellbrook
   - historic
@@ -16,6 +16,7 @@ tags:
   - St. Albans
   - church
 ---
+
 This morning we decided to do the Muswellbrook Heritage Walk. We couldn't find a map online, so we had to kind of guess where the walk might take us.
 
 Muswellbrook, in the heart of the Upper Hunter is a small town associated with energy, mining and agriculture.

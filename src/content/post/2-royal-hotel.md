@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Royal Hotel
 image: ../../assets/gallery/2-royal-hotel/Royal Hotel (7).jpeg
 gallery: 2-royal-hotel
-map: [-32.26512,150.88808,19]
+map: [-32.26512, 150.88808, 19]
 tags:
   - Muswellbrook
   - hotel
   - dinner
   - Royal Hotel
 ---
+
 I had the chorizo and prawn pasta which was quite nice.

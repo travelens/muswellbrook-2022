@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Allan Bridge
 image: ../../assets/gallery/2-allan-bridge/Allan Bridge.jpeg
 gallery: 2-allan-bridge
-map: [-32.12336,150.92577,19]
+map: [-32.12336, 150.92577, 19]
 tags:
   - Allan Bridge
   - historic
 ---
+
 We had to stop the car because the bridge looks like it was taken straight out of the film "Bridges of Madison County."
 
 The Allan Bridge, located between Glenbawn and Segenhoe, is the most significant heritage bridge in the Upper Hunter Shire. It is one of five timber heritage bridges in the Shire. It was constructed in 1937, was washed away in 1955 and reconstructed at a site further downstream.

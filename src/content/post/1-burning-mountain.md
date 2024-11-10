@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Burning Mountain
 image: ../../assets/gallery/1-burning-mountain/Burning Mountain (39).jpeg
 gallery: 1-burning-mountain
-map: [-31.8689,150.9000,15]
+map: [-31.8689, 150.9000, 15]
 tags:
   - Burning Mountain
   - walk
 ---
+
 Home to Australia’s only naturally burning coal seam, [Burning Mountain Nature Reserve](https://www.nationalparks.nsw.gov.au/visit-a-park/parks/burning-mountain-nature-reserve) is tucked away off New England Highway.
 
 To traditional Aboriginal owners, it’s the fiery tears of a woman long since turned to stone by Biami, the sky god. Early explorers assumed Burning Mountain's billowing smoke and peak of grey, smouldering ash was an active volcano. It’s actually a combusting coal seam, that’s been smouldering under the surface of the earth for an estimated 5,500 years.

@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Scone
 image: ../../assets/gallery/1-scone/Scone (5).jpeg
 gallery: 1-scone
-map: [-32.0469,150.8670,14]
+map: [-32.0469, 150.8670, 14]
 tags:
   - Scone
   - lunch
 ---
+
 Scone is an important rural centre on the New England Highway. It is known as 'The Horse Capital of Australia' and claims to be the second-largest horse breeding area in the world, after Kentucky in the United States.
 
 The equine focus of the town is reflected in numerous ways: it is the home to the Australian Stockhorse Association; the Hunter thoroughbred breeding industry which is reputedly the second largest breeding area in the world; the district has some of the country’s longest established pony clubs; there is a thriving polo and polocrosse community; and the bronze sculpture, 'Scone Mare and Foal' by Gabriel Sterk, is prominently situated beside the highway in Elizabeth Park.

@@ -8,12 +8,13 @@ timezone: Australia/NSW
 location: The Kingfish
 image: ../../assets/gallery/0-kingfish-lunch/Kingfish.jpeg
 gallery: 0-kingfish-lunch
-map: [-32.92547,151.76942,17]
+map: [-32.92547, 151.76942, 17]
 tags:
   - Newcastle
   - lunch
   - Kingfish
 ---
+
 We started the trip by driving to Newcastle the [The Kingfish Honeysuckle](https://thekingfish.com.au/) for lunch.
 
 The Kingfish is a family-owned and operated seafood restaurant located on one of the new apartment buildings around Honeysuckle Drive, Newcastle.

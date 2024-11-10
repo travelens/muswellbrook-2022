@@ -8,10 +8,10 @@ timezone: Australia/NSW
 location: Audrey Wilkinson
 image: ../../assets/gallery/3-audrey-wilkinson/Audrey Wilkinson (1).jpeg
 gallery: 3-audrey-wilkinson
-map: [-32.7919,151.2757,15]
+map: [-32.7919, 151.2757, 15]
 tags:
   - Audrey Wilkinson
   - winery
 ---
-[Audrey Wilkinson](https://audreywilkinson.com.au/) has a long history dating back to 1866 when the Wilkinson family acquired the present site. Audrey Wilkinson died at the ripe old age of 85, but the name Audrey Wilkinson Vineyards now perpetuates pioneering winemaking. The Agnew family enters the Australian wine industry with the acquisition of the historic Audrey Wilkinson Vineyard in the Hunter Valley
 
+[Audrey Wilkinson](https://audreywilkinson.com.au/) has a long history dating back to 1866 when the Wilkinson family acquired the present site. Audrey Wilkinson died at the ripe old age of 85, but the name Audrey Wilkinson Vineyards now perpetuates pioneering winemaking. The Agnew family enters the Australian wine industry with the acquisition of the historic Audrey Wilkinson Vineyard in the Hunter Valley
