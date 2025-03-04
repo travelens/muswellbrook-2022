@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Two Rivers
-image: ../../assets/gallery/3-two-rivers/Two Rivers (2).jpeg
+image: ../gallery/3-two-rivers/Two Rivers (2).jpeg
 gallery: 3-two-rivers
 map: [-32.4062, 150.6780, 14]
 tags:

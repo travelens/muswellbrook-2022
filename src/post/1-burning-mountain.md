@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Burning Mountain
-image: ../../assets/gallery/1-burning-mountain/Burning Mountain (39).jpeg
+image: ../gallery/1-burning-mountain/Burning Mountain (39).jpeg
 gallery: 1-burning-mountain
 map: [-31.8689, 150.9000, 15]
 tags:

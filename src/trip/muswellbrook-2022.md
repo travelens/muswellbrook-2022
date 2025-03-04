@@ -6,7 +6,7 @@ location: Muswellbrook
 start: 2022-12-27T09:00:00+11:00
 end: 2022-12-30T17:00:00+11:00
 description: Family holiday to the Upper Hunter Valley between Christmas and New Year (27-30 December 2022).
-image: ../../assets/trip.jpeg
+image: ./trip.jpeg
 tags:
   - Newcastle
   - Muswellbrook

@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Hunter Valley Gardens village
-image: ../../assets/gallery/3-hvg-village/Hunter Valley Gardens Village (10).jpeg
+image: ../gallery/3-hvg-village/Hunter Valley Gardens Village (10).jpeg
 gallery: 3-hvg-village
 map: [-32.77316, 151.29779, 18]
 tags:

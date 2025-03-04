@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Audrey Wilkinson
-image: ../../assets/gallery/3-audrey-wilkinson/Audrey Wilkinson (1).jpeg
+image: ../gallery/3-audrey-wilkinson/Audrey Wilkinson (1).jpeg
 gallery: 3-audrey-wilkinson
 map: [-32.7919, 151.2757, 15]
 tags:

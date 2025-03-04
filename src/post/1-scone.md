@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Scone
-image: ../../assets/gallery/1-scone/Scone (5).jpeg
+image: ../gallery/1-scone/Scone (5).jpeg
 gallery: 1-scone
 map: [-32.0469, 150.8670, 14]
 tags:

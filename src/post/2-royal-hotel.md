@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Royal Hotel
-image: ../../assets/gallery/2-royal-hotel/Royal Hotel (7).jpeg
+image: ../gallery/2-royal-hotel/Royal Hotel (7).jpeg
 gallery: 2-royal-hotel
 map: [-32.26512, 150.88808, 19]
 tags:

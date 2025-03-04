@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Muswellbrook
-image: ../../assets/gallery/2-muswellbrook-1/Muswellbrook (69).jpeg
+image: ../gallery/2-muswellbrook-1/Muswellbrook (69).jpeg
 gallery: 2-muswellbrook-1
 map: [-32.2627, 150.8961, 14]
 tags:

@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Allan Bridge
-image: ../../assets/gallery/2-allan-bridge/Allan Bridge.jpeg
+image: ../gallery/2-allan-bridge/Allan Bridge.jpeg
 gallery: 2-allan-bridge
 map: [-32.12336, 150.92577, 19]
 tags:

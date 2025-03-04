@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Hunter Belle
-image: ../../assets/gallery/1-hunter-belle/Hunter Belle (8).jpeg
+image: ../gallery/1-hunter-belle/Hunter Belle (8).jpeg
 gallery: 1-hunter-belle
 map: [-32.24180, 150.90181, 18]
 tags:

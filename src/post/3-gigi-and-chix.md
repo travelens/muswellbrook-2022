@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Gigi and Chix
-image: ../../assets/gallery/3-gigi-and-chix/Gigi and Chix (3).jpeg
+image: ../gallery/3-gigi-and-chix/Gigi and Chix (3).jpeg
 gallery: 3-gigi-and-chix
 map: [-32.77316, 151.29779, 18]
 tags:

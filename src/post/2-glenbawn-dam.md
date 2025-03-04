@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: Glenbawn Dam
-image: ../../assets/gallery/2-glenbawn-dam/Glenbawn Dam (10).jpeg
+image: ../gallery/2-glenbawn-dam/Glenbawn Dam (10).jpeg
 gallery: 2-glenbawn-dam
 map: [-32.1166, 151.0063, 16]
 tags:

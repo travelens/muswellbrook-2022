@@ -6,7 +6,7 @@ trip: Muswellbrook 2022
 place: Australia
 timezone: Australia/NSW
 location: The Kingfish
-image: ../../assets/gallery/0-kingfish-lunch/Kingfish.jpeg
+image: ../gallery/0-kingfish-lunch/Kingfish.jpeg
 gallery: 0-kingfish-lunch
 map: [-32.92547, 151.76942, 17]
 tags:
